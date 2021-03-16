@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @velvine
-- 👀 I’m interested in javascrip and react in building scalable applications
+- 👀 I’m interested in javascript and reactJS in building scalable applications
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on both front end and back end development
 - 📫 How to reach me ...
