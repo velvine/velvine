@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @velvine
-- 👀 I’m interested in javascript and reactJS in building scalable applications
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on both front end and back end development
-- 📫 How to reach me ...
+- 👀 I’m a javascript and reactJS developer with skills in cyber security(vulnerability and risk assesment, incident response)
+- 🌱 I’m currently learning python and go lang
+- 💞️ I’m looking to collaborate on both front end and back end development and anything to do with information security.
+- 📫 How to reach me ...https://www.linkedin.com/in/velvine-tanui/
 
 <!---
 velvine/velvine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
